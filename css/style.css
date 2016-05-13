@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Candal);
+.home-image {
+    width: 20px;
+    height: 20px;
+}
+
+.search {
+    float: right;
+    margin-top: 1%;
+}
+
+div ul li a {
+    font-size: larger;
+    font-family: 'IM Fell Double Pica', serif;
+}
+
+h1 {
+    font-family: 'Candal', sans-serif;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#siteblue {
+    color: #0000A0;
+}
+
+.mylorem {
+    background-color: #A8A8A8;
+    width: 100%;
+}
+
+.fontlorem {
+    float: left;
+    background-color: white;
+    color: black;
+}
+
+.mytextcenter {
+    text-align: center;
+}
+
+.mybluediv {
+    margin-top: -20px;
+    background-color: aqua;
+    text-align: left;
+}
+
+.leftftext {
+    float: left;
+    width: 25%;
+    font-family: 'Candal', sans-serif;
+    margin: 5%;
+}
+
+.rightftext {
+    float: right;
+    width: 25%;
+    font-family: 'Candal', sans-serif;
+    margin: 5%;
+}
+
+footer {
+    margin-top: 1%;
+    background-color: aqua;
+}
+
+.centerf {
+    float: left;
+    width: 25%;
+    font-family: 'Candal', sans-serif;
+    margin: 5%;
+}
+
+#backcolorf {
+    margin-top: 3%;
+    background-color: #1a1a00;
+    font-size: larger;
+}
+
+.center1 {
+    width: 20%;
+}
+
+.center2 {
+    margin-top: 5%;
+    width: 60;
+    float: right;
+}
+
+.right2 {
+    width: 20%;
+    float: left;
+    font-family: 'Candal', sans-serif;
+    margin: 5%;
+}
+
+form input{
+    margin-top: 5%;
+}
+
+.footer-left-text{
+    width: 20%;
+    float: left;
+}
+
+.footer-right-text{
+    float: right;
+    width: 50%;
+}
