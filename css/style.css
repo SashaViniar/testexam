@@ -114,3 +114,19 @@ form input{
     float: right;
     width: 50%;
 }
+
+
+.lefthr{
+    width: 30%;
+    float: left;
+}
+.righthr{
+    width: 30%;
+    float: right;
+}
+
+.centerhr{
+    width: 30%;
+    float: center;
+    padding-left: 5%;
+}
